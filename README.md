@@ -1,4 +1,4 @@
-# Hi! 
+# Hi! :wave:
 
 I am Alejandra. I live in Colombia. :earth_americas:
 
