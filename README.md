@@ -1,4 +1,4 @@
-# Hi! :space_invader:
+# Hi! 
 
 I am Alejandra. I live in Colombia. :earth_americas:
 
@@ -8,6 +8,6 @@ Interested to participate in open source and tech for good causes. :full_moon_wi
 
 :speech_balloon: If you want to contact me: [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/).
 
-If you want to check my [portfolio](https://alejandraberbesi.github.io/) :milky_way:
+If you want to check my [portfolio](https://alejandraberbesi.github.io/) :space_invader:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alejandraberbesi&hide=stars,issues&count_private=true&show_icons=true&theme=cobalt)
