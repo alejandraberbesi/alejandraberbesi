@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hi! 
 
-I love to learn about new technologies and machine learning/deep learning techniques. 
+I am Alejandra. A colombian data scientist.
 
-Currently experimenting with neural networks, transfer learning and NLP.
+I :heart: learning new tech related with machine learning/deep learning. 
 
-Interested to participate in open source and tech for good causes. 
+Interested to participate in open source and tech for good causes. :full_moon_with_face:
 
 You can contact me in [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/).
 
-If you want to check it, here is my [portfolio](https://alejandraberbesi.github.io/)
-
+If you want to check it, here is my [portfolio](https://alejandraberbesi.github.io/) :milky_way:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alejandraberbesi&hide=stars,issues&count_private=true&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandraberbesi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
