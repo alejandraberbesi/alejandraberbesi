@@ -1,4 +1,6 @@
-<font color="purple"> Hi!</font>
+## Hi!
+  
+![#f03c15](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) `#f03c15` 
 
 I am Alejandra. A colombian data scientist.
 
