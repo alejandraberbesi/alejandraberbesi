@@ -1,4 +1,4 @@
-### Hi! 
+<font color="purple"> Hi!</font>
 
 I am Alejandra. A colombian data scientist.
 
