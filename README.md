@@ -1,13 +1,13 @@
-# Hi!
+# Hi! :space_invader:
 
-I am Alejandra. A colombian data scientist.
+I am Alejandra. I live in Colombia. :earth_americas:
 
 I :heart: learning new tech related with machine learning/deep learning. 
 
 Interested to participate in open source and tech for good causes. :full_moon_with_face:
 
-You can contact me in [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/).
+:speech_balloon: If you want to contact me: [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/).
 
-If you want to check it, here is my [portfolio](https://alejandraberbesi.github.io/) :milky_way:
+If you want to check my [portfolio](https://alejandraberbesi.github.io/) :milky_way:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alejandraberbesi&hide=stars,issues&count_private=true&show_icons=true&theme=cobalt)
