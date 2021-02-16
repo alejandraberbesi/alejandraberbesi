@@ -2,7 +2,7 @@
 
 I am Alejandra. I live in Colombia. :earth_americas:
 
-I :heart: learning new tech related with machine learning/deep learning. 
+I :heart: learning new tech related with machine learning. 
 
 I'm interested to participate in open source and tech for good causes. :full_moon_with_face:
 
