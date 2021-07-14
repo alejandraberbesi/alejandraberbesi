@@ -1,8 +1,6 @@
 # Hi! :wave:
 
-I am Alejandra. I live in Colombia. :earth_americas:
-
-I :heart: learning new tech related with machine learning. 
+I am Alejandra. I :heart: learning new tech related with machine learning. 
 
 I'm interested to participate in education projects and tech for good causes. :full_moon_with_face:
 
