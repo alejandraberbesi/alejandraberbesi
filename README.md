@@ -1,8 +1,6 @@
 # Hi! :wave:
 
-I am Alejandra. I :heart: learning new tech related with machine learning. 
-
-I'm interested to participate in education projects and tech for good causes. :full_moon_with_face:
+I am Alejandra. I :heart: learning new tech. I'm interested to participate in education projects and tech for good causes. :full_moon_with_face:
 
 :speech_balloon: Use [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/) to contact me.
 
