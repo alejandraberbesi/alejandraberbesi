@@ -1,4 +1,4 @@
-# Hellooo! :pinata:	
+# Hellooo! 
 
 Here you can find some of my personal projects, with Python code and machine learning techniques. They are better organized in my [portfolio](https://alejandraberbesi.github.io/) :abacus:	
 
