@@ -1,6 +1,8 @@
 # Hellooo! 
 
-Here you can find some of my personal projects, with Python code and machine learning techniques. They are better organized in my [portfolio](https://alejandraberbesi.github.io/) :abacus:	
+Here you can find the code for most of my personal projects, with Python as a programming language and several are applying machine learning techniques. 
+
+They are better organized in my [portfolio](https://alejandraberbesi.github.io/) :abacus:	
 
 :mailbox_with_mail:	Use [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/) if you would like to check my CV or to contact me.
 
