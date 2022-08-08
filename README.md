@@ -1,6 +1,6 @@
 # Hellooo! 
 
-Here you can find the code for personal projects and deliverables from courses. 
+Here you can find the code of personal projects and deliverables from courses. 
 
 Check my [portfolio](https://alejandraberbesi.github.io/) if you would like to see only the projects :alien:	
 
