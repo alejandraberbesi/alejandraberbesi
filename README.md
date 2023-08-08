@@ -7,7 +7,7 @@ Check my [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/) if y
 
 Let me provide you with a snapshot of my experience:
 
-📊 Over a span of 6 years, my career as a data scientist and data analyst has centered on using advanced data techniques and analyses across different industries. My main goal has been to help teams use data to improve user experiences and drive business growth. I've also been hands-on in setting up systems to handle data smoothly and provide the right information to the right people. I've worked across various areas, from tech services to startups delivering products and providing marketing advice.
+📊 Over a span of 6 years, my career as a data scientist and data analyst has centered on using advanced data techniques and analyses across different industries. My main goal has been to help teams use data to improve user experiences and drive business growth. I've also been hands-on in setting up systems to handle data smoothly and provide the right information to the right people. I've worked across various areas, from tech services to startups delivering products and providing insights to marketing teams.
 
 During this time, I've actively contributed to several impactful projects, showcasing my skills in different scenarios:
 
