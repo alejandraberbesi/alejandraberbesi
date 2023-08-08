@@ -1,4 +1,4 @@
-# Welcome to my GitHub repository! 👋
+# Welcome to my GitHub profile! 👋
 
 Within these projects, you'll discover a collection of personal endeavors, each housed in its own repository. 
 Dive into the code and explore the brief introductions provided in the README files for a glimpse into each project's purpose and functionality.
