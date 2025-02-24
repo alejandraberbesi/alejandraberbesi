@@ -3,7 +3,7 @@
 Within these projects, you'll discover a collection of personal endeavors, each housed in its own repository. 
 Dive into the code and explore the brief introductions provided in the README files for a glimpse into each project's purpose and functionality.
 
-Check my [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/) if you would like to contact me :alien:	
+Check my [linkedin](https://www.linkedin.com/in/alejandra-berbesi-becerra/) if you would like to contact me 
 
 ## If you are interested, here is a snapshot of my experience:
 
